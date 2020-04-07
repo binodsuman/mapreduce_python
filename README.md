@@ -1,25 +1,25 @@
 # mapreduce_python
 Python code and execution for map reduce
 
-First run your program locallty for testing:
-Give all executable access to all python files.
-** Test Mapper code
-(base) Binods-MacBook-Pro:binod_python_mapreduce binod$ cat names.txt | ./mapper.py
-Binod	1
-Suman	1
-Pramod	1
-Modi	1
-Binod	1
-Ishan	1
-Suman	1
-Mukesh	1
-Ambani	1
-Mukesh	1
-Binod	1
-Ambani	1
-Ishan	1
-Ambani	1
-Binod	1
+First run your program locallty for testing: <br />
+Give all executable access to all python files.<br />
+** Test Mapper code<br />
+(base) Binods-MacBook-Pro:binod_python_mapreduce binod$ cat names.txt | ./mapper.py<br />
+Binod	1<br />
+Suman	1<br />
+Pramod	1<br />
+Modi	1<br />
+Binod	1<br />
+Ishan	1<br />
+Suman	1<br />
+Mukesh	1<br />
+Ambani	1<br />
+Mukesh	1<br />
+Binod	1<br />
+Ambani	1<br />
+Ishan	1<br />
+Ambani	1<br />
+Binod	1<br />
 
 ** Test Mapper and Reducer code
 
